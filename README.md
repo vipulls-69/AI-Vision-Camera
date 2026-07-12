@@ -1,2 +1,2 @@
 # home-camera-vlm
-Sustainable VLM for home/security cameras
+Sustainable VLM integration for home/security cameras
